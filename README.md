@@ -6,7 +6,7 @@
 <p>Este projeto consiste na prática das habilidades com flexbox, e a introdução a linguagem Javascript para dar interatividade ao formulário.
 
 <h2> 💻 Versão Desktop </h2>
-<video src="login2.webm" width="600"></video>
+<video src="login2.mp4" width="600"></video>
 
 <br>
 
