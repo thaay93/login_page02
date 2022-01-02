@@ -1,12 +1,12 @@
 <h1 align="center">Página de Login  2💻📁✨</h1>
 
-<h3 align="center"> 🚧Projeto em Construção... 🚧 </h3>
+<h3 align="center">Projeto em Construção... </h3>
 <br>
 
 <p>Este projeto consiste na prática das habilidades com flexbox, e a introdução a linguagem Javascript para dar interatividade ao formulário.
 
 <h2> 💻 Versão Desktop </h2>
-<video src="login2.mp4" width="600"></video>
+<img src="login2-foto.png" width="500">
 
 <br>
 
